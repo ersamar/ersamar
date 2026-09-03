@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:F857A6,100:FF5858&height=220&text=Ersa%20Amar&fontColor=ffffff&fontSize=55"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=1800&pause=600&color=FFD700&center=true&vCenter=true&repeat=true&width=600&lines=AI+Automation+Engineer;Frontend+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=1800&pause=600&color=FFD700&center=true&vCenter=true&repeat=true&width=600&lines=Senior+AI+Automation+Engineer;Frontend+Developer" />
 </p>
 
 ---
@@ -40,11 +40,18 @@ AI Automation Engineer passionate about building AI-powered workflows and intell
 
 ## 💼 Experience
 
-### 🚀 Development Lead & AI Consultant
+### 🚀 Development Lead & Senior AI Automation Engineer
 **ZS Global · AI & Digital Solutions (2025 — Present)**  
 * Leading development efforts and consulting on AI adoption.
 * Architecting and building AI agent products and digital solutions.
 * Driving AI automation initiatives and scalable digital solutions.
+
+### 🚀 Senior Team Lead
+**Pak-Thai Digital Innovation Lab, SEECS, NUST · Islamabad (Jun 2026 — Present)**
+
+* Leading a development team working on a Flutter-based application.
+* Managing task distribution and coordinating development across modules.
+* Leading AI module and service implementation alongside other application features.
 
 ### 💻 Full Stack Developer Intern
 **Softheight · Multan (2024 — 2025)**  
@@ -60,24 +67,6 @@ AI Automation Engineer passionate about building AI-powered workflows and intell
 **Self-employed (2022 — 2024)**  
 * Designed and developed custom websites and web applications for clients.
 * Delivered responsive, modern, and user-focused digital solutions.
-
----
-
-## 🧠 Currently Learning
-
-* Flutter
-* AI Agents & Multi-Agent Systems
-* Retrieval-Augmented Generation (RAG)
-* LangChain & LLM Applications
-* System Design
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ersamar&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
